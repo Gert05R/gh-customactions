@@ -1,0 +1,5 @@
+name: 'Deplot to AWS S3'
+description: 'Deplot to a static website using S3'
+runs:
+  using: 'node16'
+  main: 'main.js'
